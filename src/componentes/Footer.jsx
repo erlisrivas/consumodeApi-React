@@ -5,13 +5,15 @@ import { faFacebook, faTwitter, faLinkedin, faYoutube, faGithub} from '@fortawes
 
 const Footer = () => {
   return (
-    <footer className="bg-danger text-center text-light p-4">
+    <footer className="bg-primary text-center text-light p-4 ">
         <p className="mb-0">Erlis Rivas</p>
+        <div className="d-flex justify-content-center">
             <FontAwesomeIcon icon={faFacebook}/>
             <FontAwesomeIcon icon={faTwitter}/>
             <FontAwesomeIcon icon={faLinkedin}/>
             <FontAwesomeIcon icon={faYoutube}/>
             <FontAwesomeIcon icon={faGithub}/>
+        </div>
     </footer>
   )
 }

@@ -1,14 +1,14 @@
 import React from 'react'
-import pokeapi from './pokeapi.png'
+import search from './search.png'
 
 
 const Header = () => {
   return (
 
-<nav className="navbar navbar-expand-lg navbar-dark bg-danger">
+<nav className="navbar navbar-expand-lg navbar-dark bg-primary">
   <div className="container-fluid">
   <a className="navbar-brand" href="#">
-      <img src={pokeapi} alt="" width="100"/>
+      <img src={search} alt="" width="50"/>
     </a>
     <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul className="navbar-nav">
@@ -16,13 +16,13 @@ const Header = () => {
           <a className="nav-link active" aria-current="page" href="#">Inicio</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Buscar Pokemon</a>
+          <a className="nav-link" href="#">Buscar Colaborador</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Galería</a>
+          <a className="nav-link" href="#">Lista de colaboradores</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link disabled">Contacto</a>
+          <a className="nav-link disabled">Registro</a>
         </li>
       </ul>
     </div>
