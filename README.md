@@ -1,3 +1,15 @@
+
+
+Consumo de Api con React haciendo uso de Hook UseEffect
+
+link video: https://www.youtube.com/watch?v=Nh3BUy9yr3c
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
