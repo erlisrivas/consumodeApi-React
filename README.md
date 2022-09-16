@@ -2,7 +2,7 @@
 
 Consumo de Api con React haciendo uso de Hook UseEffect
 
-link video: https://www.youtube.com/watch?v=Nh3BUy9yr3c
+
 
 
 
