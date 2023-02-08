@@ -15,7 +15,7 @@ Aplicación web donde se hizo un llamado a la Api mediante fetch, tambien cuenta
 <br><br>
 
 <div>
-<img src="https://github.com/erlisrivas/consumodeApi-React/blob/master/imagenweb.png" title="Github" **alt="Github" width="200" height="200"/>
+<img src="https://github.com/erlisrivas/consumodeApi-React/blob/master/imagenweb.png" title="Github" **alt="Github" width="400" />
 </div>
 
 
