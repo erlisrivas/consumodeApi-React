@@ -14,7 +14,7 @@ Aplicación web donde se hizo un llamado a la Api mediante fetch, tambien cuenta
 </div>
 
 <div>
-<img src="https://www.freeiconspng.com/uploads/github-icon-1.png" title="Github" **alt="Github" width="40" height="40"/>
+<img src="https://github.com/erlisrivas/consumodeApi-React/master/imagenweb.png" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
 
