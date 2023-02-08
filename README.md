@@ -13,8 +13,8 @@ Aplicación web donde se hizo un llamado a la Api mediante fetch, tambien cuenta
  <img src="https://www.freeiconspng.com/uploads/github-icon-1.png" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
-<div>
-<img src="https://github.com/erlisrivas/consumodeApi-React/master/imagenweb.png" title="Github" **alt="Github" width="40" height="40"/>
+<div>8
+<img src="https://github.com/erlisrivas/consumodeApi-React/blob/master/imagenweb.png" title="Github" **alt="Github" width="80" height="80"/>
 </div>
 
 
